@@ -11,15 +11,15 @@ async def start(client, message):
                 InlineKeyboardButton("Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("Sᴏᴜʀᴄᴇ", url=f"https://{SOURCE_CODE}"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/NoobiezHub"),
                 InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
                 InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about"),
-                InlineKeyboardButton("Dᴇᴠꜱ", callback_data="devs"),
+                InlineKeyboardButton("Dᴇᴠ", url=f"t.me/ITzMeZeus"),
             ],
             [
-               InlineKeyboardButton("Sᴜᴍᴍᴏɴ Mᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+               InlineKeyboardButton("Mᴀʀᴠᴇʟ Mᴏᴠɪᴇs", url=f"https://t.me/marvelmoviesearth616"),
             ]
             ]
    reply_markup = InlineKeyboardMarkup(buttons)
@@ -103,10 +103,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about"),
-                InlineKeyboardButton("Dᴇᴠꜱ", callback_data="devs"),
+                InlineKeyboardButton("Dᴇᴠ", url=f"t.me/ITzMeZeus"),
             ],
             [
-               InlineKeyboardButton("Sᴜᴍᴍᴏɴ Mᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+               InlineKeyboardButton("Mᴀʀᴠᴇʟ Mᴏᴠɪᴇs", url=f""https://t.me/marvelmoviesearth616"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
