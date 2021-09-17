@@ -19,7 +19,7 @@ async def start(client, message):
                 InlineKeyboardButton("Dᴇᴠ", url=f"t.me/ITzMeZeus"),
             ],
             [
-               InlineKeyboardButton("Mᴀʀᴠᴇʟ Mᴏᴠɪᴇs", url=f"https://t.me/marvelmoviesearth616"),
+               InlineKeyboardButton("Sᴜᴍᴍᴏɴ Mᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ]
             ]
    reply_markup = InlineKeyboardMarkup(buttons)
