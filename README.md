@@ -15,8 +15,8 @@ The easiest way to deploy this Bot is via Heroku.
 
 # Our Credit🔥
 
-<a href="https://t.me/Dark_holdz"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
-<a href="https://t.me/WHlTE_WOLF"><img src="https://img.shields.io/badge/Error-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/DAREDEV1L"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
+<a href="https://t.me/Dark_holdz"><img src="https://img.shields.io/badge/JANVI-1b77FF.svg?logo=Telegram"></a>
+<a href="https://t.me/WHlTE_WOLF"><img src="https://img.shields.io/badge/ZUES-1b77FF.svg?logo=telegram"></a>
+<a href="https://t.me/DAREDEV1L"><img src="https://img.shields.io/badge/DAREDEVIL-1b77FF.svg?logo=Telegram"></a>
 
 
