@@ -11,12 +11,12 @@ async def start(client, message):
                 InlineKeyboardButton("Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/NoobiezHub"),
+                InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/JANZUZ"),
                 InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
                 InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about"),
-                InlineKeyboardButton("Dᴇᴠ", url=f"t.me/ITzMeZeus"),
+                InlineKeyboardButton("Dᴇᴠ", url=f"https://t.me/JANZUZ"),
             ],
             [
                InlineKeyboardButton("Sᴜᴍᴍᴏɴ Mᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
@@ -68,16 +68,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="devs":
         buttons = [
             [
-                InlineKeyboardButton("Lᴏᴜɪꜱ", url="https://t.me/DeeCodeBots"),
-                InlineKeyboardButton("Eʀʀᴏʀ", url="https://t.me/ProErrorXD"),
+                InlineKeyboardButton("JANVI", url="https://t.me/JANZUZ"),
+                InlineKeyboardButton("ZUES", url="https://t.me/WHlTE_WOLF"),
             ],
             [
-                InlineKeyboardButton("Bʟᴀᴢᴇ", url="https://t.me/piroXpower"),
-                InlineKeyboardButton("Pʀɪɴᴄᴇ", url="https://t.me/DEVILDAD_PRINCE"),
+                InlineKeyboardButton("DARE DEVIL", url="https://t.me/DAREDEV1L"),
+                InlineKeyboardButton("MOVIE", url="https://t.me/CINIMAKOOT"),
             ],
             [
-                InlineKeyboardButton("Hʏᴏᴋᴀ", url="https://t.me/Pratheek_XD"),
-                InlineKeyboardButton("Zᴀʟɪᴍ", url="https://t.me/Jalim_Munda"),
+                InlineKeyboardButton("SERIES", url="https://t.me/SERIESWORLDZ"),
+                InlineKeyboardButton("MARVEL", url="https://t.me/marvelmoviesearth616"),
             ],
             [
                 InlineKeyboardButton("Bᴀᴄᴋ", callback_data="start"),
@@ -106,7 +106,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Dᴇᴠ", url=f"t.me/ITzMeZeus"),
             ],
             [
-               InlineKeyboardButton("Mᴀʀᴠᴇʟ Mᴏᴠɪᴇs", url=f""https://t.me/marvelmoviesearth616"),
+               InlineKeyboardButton("MOVIES", url=f""https://t.me/CINIMAKOOT"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
