@@ -2,7 +2,7 @@
 
 <a href="https://t.me/JANZUZ"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/cinimakoot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-![logo](https://telegra.ph/file/824cba85b5b820fcd7dcd.jpg)
+![logo](https://te.legra.ph/file/a26f597982c99ac8e6e99.jpg)
 # How To Host 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TeamDeeCode/VcVideoPlayer&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,BOT_USERNAME,ASSISTANT_NAME,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS,CHANNEL,ADMIN)
 
